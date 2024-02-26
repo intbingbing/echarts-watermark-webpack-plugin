@@ -1,0 +1,23 @@
+{
+  "name": "echarts-watermark-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Through the form of webpack plugin, add the watermark of echarts library globally at one time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "echarts-watermark",
+    "watermark"
+  ],
+  "peerDependencies": {
+    "webpack": "^5.20.0"
+  },
+  "bugs": "https://github.com/intbingbing/echarts-watermark-webpack-plugin/issues",
+  "homepage": "https://github.com/intbingbing/echarts-watermark-webpack-plugin",
+  "repository": "https://github.com/intbingbing/echarts-watermark-webpack-plugin.git",
+  "author": "Bingbing <bingbinghu01@gmail.com> (https://github.com/intbingbing)",
+  "license": "ISC"
+}
