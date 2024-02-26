@@ -1,6 +1,6 @@
 {
   "name": "echarts-watermark-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Through the form of webpack plugin, add the watermark of echarts library globally at one time",
   "main": "index.js",
   "scripts": {
